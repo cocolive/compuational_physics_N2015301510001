@@ -1,7 +1,7 @@
 # compuational_physics_N2015301510001
 作业
 ## compuational physics   
-[All the homework](https://github.com/cocolive/compuational_physics_N2015301510001/blob/master/All%20the%20homework)
+[All the homework](https://github.com/cocolive/compuational_physics_N2015301510001/blob/master/Homework.md)
 ## 第一次作业
 - 安装python 3.6运行环境（非linux环境请安装[狂蟒之灾](https://www.continuum.io/)）
 - * 已安装
